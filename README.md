@@ -12,4 +12,4 @@ Sample processed image: [result](./Lung-PET-CT-Dx/Lung_Dx-A0001/1.3.6.1.4.1.1451
 
 Sample processed [gif](./Lung-PET-CT-Dx/Lung_Dx-A0001/1.3.6.1.4.1.14519.5.2.1.6655.2359.165554066086145834377508507990/result/result.gif)
 
-![](./Lung-PET-CT-Dx/Lung_Dx-A0001/1.3.6.1.4.1.14519.5.2.1.6655.2359.165554066086145834377508507990/result/result.gif)
+![](./Lung-PET-CT-Dx/manifest-1675442780019/Lung-PET-CT-Dx/Lung_Dx-A0001/04-04-2007-NA-Chest-07990/result/result.gif)
