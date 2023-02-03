@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pydicom
+simpleitk
+pillow
+pandas
+seaborn
+matplotlib
